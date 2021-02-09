@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+}
+
+.word {
+    letter-spacing: 0.3em;
+}
+
+p {
+    letter-spacing: 0.5em;
+}
+
+button {
+    margin: 0.3em;
+}
+
+input {
+    opacity: 0;
+}

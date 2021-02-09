@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> Snapshot should match with previous Snapshot 1`] = `
+<body>
+  <div>
+    <div
+      class="App"
+    >
+      <h1
+        class="word"
+        name="word"
+      >
+        TE_TI__
+      </h1>
+      <h3>
+        Nombres d'essais : 
+        5
+      </h3>
+      <div>
+        <div>
+          <input
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+      <div>
+        <h2>
+          Lettres déjà essayées :
+        </h2>
+        <div>
+          <p
+            data-testid="usedLetters"
+          >
+            T
+            E
+            I
+            A
+            V
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      class="App"
+    >
+      <h1
+        class="word"
+        name="word"
+      >
+        __________
+      </h1>
+      <h3>
+        Nombres d'essais : 
+        0
+      </h3>
+      <div>
+        <div>
+          <input
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+      <div>
+        <h2>
+          Lettres déjà essayées :
+        </h2>
+        <div>
+          <p
+            data-testid="usedLetters"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+`;

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1612806554090" clover="3.2.0">
+  <project timestamp="1612806554090" name="All files">
+    <metrics statements="23" coveredstatements="23" conditionals="6" coveredconditionals="6" methods="11" coveredmethods="11" elements="40" coveredelements="40" complexity="0" loc="23" ncloc="23" packages="1" files="2" classes="2"/>
+    <file name="App.js" path="/home/mdecreux/OC/pendu/src/App.js">
+      <metrics statements="20" coveredstatements="20" conditionals="6" coveredconditionals="6" methods="9" coveredmethods="9"/>
+      <line num="7" count="523" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="38" type="stmt"/>
+      <line num="11" count="38" type="stmt"/>
+      <line num="12" count="38" type="stmt"/>
+      <line num="13" count="38" type="stmt"/>
+      <line num="15" count="38" type="stmt"/>
+      <line num="16" count="35" type="cond" truecount="2" falsecount="0"/>
+      <line num="17" count="6" type="stmt"/>
+      <line num="22" count="38" type="stmt"/>
+      <line num="23" count="24" type="stmt"/>
+      <line num="24" count="24" type="stmt"/>
+      <line num="25" count="24" type="stmt"/>
+      <line num="28" count="38" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="31" count="1" type="stmt"/>
+      <line num="32" count="1" type="stmt"/>
+      <line num="35" count="38" type="stmt"/>
+      <line num="41" count="1" type="stmt"/>
+    </file>
+    <file name="ListUsedLetters.js" path="/home/mdecreux/OC/pendu/src/ListUsedLetters.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="35" type="stmt"/>
+      <line num="4" count="97" type="stmt"/>
+    </file>
+  </project>
+</coverage>
